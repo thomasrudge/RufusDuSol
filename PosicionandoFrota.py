@@ -210,9 +210,6 @@ for i in range(10):
 
     
     preenche_frota(frota , nomes[i] , linha2 , coluna2 , orientacao , tamanhos[i])
-
-  
-
     
 
 print(frota)
