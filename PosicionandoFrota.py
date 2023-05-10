@@ -162,8 +162,6 @@ def preenche_frota (frota , nome , linha2 , coluna2 , orientacao2, tamanho2 ):
 
 nomes = ["porta-aviões" , "navio-tanque" , "navio-tanque" , "contratorpedeiro" ,"contratorpedeiro" , "contratorpedeiro" , "submarino","submarino","submarino","submarino"]
 
-
-
 tamanhos = [4, 3, 3, 2, 2, 2, 1, 1, 1, 1]
 
 frota = {}
